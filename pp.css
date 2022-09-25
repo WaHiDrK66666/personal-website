@@ -1,0 +1,41 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1{
+
+    font-size: 45px;
+    color: black;
+}
+
+.name-highlight{
+
+    color: hotpink;
+    text-shadow: 2px 1px 1px hotpink;
+}
+
+p{
+    color: black;
+}
+
+.half-width{
+
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 1%;
+
+}
+
+.half-width img{
+    
+    width: 200%;
+}
+
+
+
+
+
+
+
+
